@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|c:\\users\\ketaro\\source\\repos\\eslamapp\\eslamapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingcomtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingcomtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\confic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\confic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingcomtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingcomtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingcomtobigcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingcomtobigcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewcomponent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewcomponent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\addingnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|C:\\Users\\Ketaro\\source\\repos\\EslamApp\\eslamapp\\master.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1ADED807-7097-4029-9580-702C5B8D706F}|EslamApp\\EslamApp.csproj|solutionrelative:eslamapp\\master.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 555,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Box.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Box.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Box.cs",
+              "RelativeToolTip": "EslamApp\\Box.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAADgvwkBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:23:06.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Units.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Units.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Units.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Units.cs",
+              "RelativeToolTip": "EslamApp\\Units.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:43:11.129Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Form1.cs",
+              "RelativeToolTip": "EslamApp\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:49:39.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Form1.cs [Design]",
+              "RelativeToolTip": "EslamApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:49:37.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\DataBase.cs",
+              "RelativeDocumentMoniker": "EslamApp\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\DataBase.cs [Design]",
+              "RelativeToolTip": "EslamApp\\DataBase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:29:28.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Items.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Items.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Items.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Items.cs [Design]",
+              "RelativeToolTip": "EslamApp\\Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T23:26:16.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Items.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Items.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Items.cs",
+              "RelativeToolTip": "EslamApp\\Items.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAuwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:44:20.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddingComToItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingComToItem.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingComToItem.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingComToItem.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingComToItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:24:40.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\App.config",
+              "RelativeDocumentMoniker": "EslamApp\\App.config",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\App.config",
+              "RelativeToolTip": "EslamApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-17T22:32:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Master.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Master.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.cs [Design]",
+              "RelativeToolTip": "EslamApp\\Master.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:52:05.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Master.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.cs",
+              "RelativeToolTip": "EslamApp\\Master.cs",
+              "ViewState": "AQIAAEoAAAAAamZmZuYXwFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:52:20.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddingNewOutput.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewOutput.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewOutput.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewOutput.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingNewOutput.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:47:49.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "confic.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\confic.cs",
+              "RelativeDocumentMoniker": "EslamApp\\confic.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\confic.cs",
+              "RelativeToolTip": "EslamApp\\confic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:35:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddingNewComponent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewComponent.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewComponent.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewComponent.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingNewComponent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:47:50.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\DataBase.cs",
+              "RelativeDocumentMoniker": "EslamApp\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\DataBase.cs",
+              "RelativeToolTip": "EslamApp\\DataBase.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAnwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:33:18.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Box.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Box.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Box.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Box.cs [Design]",
+              "RelativeToolTip": "EslamApp\\Box.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:30:43.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddingComToItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingComToItem.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingComToItem.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingComToItem.cs",
+              "RelativeToolTip": "EslamApp\\AddingComToItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:24:46.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddingNewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewComponent.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewComponent.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewComponent.cs",
+              "RelativeToolTip": "EslamApp\\AddingNewComponent.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwGwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:53:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddingNewOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewOutput.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewOutput.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewOutput.cs",
+              "RelativeToolTip": "EslamApp\\AddingNewOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:47:50.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqliteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\SqliteHelper.cs",
+              "RelativeDocumentMoniker": "EslamApp\\SqliteHelper.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\SqliteHelper.cs",
+              "RelativeToolTip": "EslamApp\\SqliteHelper.cs",
+              "ViewState": "AQIAAOcBAAAAAAAAAAAqwFQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:00:06.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Components.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Components.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Components.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Components.cs",
+              "RelativeToolTip": "EslamApp\\Components.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAewIAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:34:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Components.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Components.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Components.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Components.cs [Design]",
+              "RelativeToolTip": "EslamApp\\Components.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:44:52.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Program.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Program.cs",
+              "RelativeToolTip": "EslamApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:00:05.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Units.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Units.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Units.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Units.cs [Design]",
+              "RelativeToolTip": "EslamApp\\Units.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:13:46.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddingComToBigCom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingComToBigCom.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingComToBigCom.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingComToBigCom.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingComToBigCom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:23:20.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddingNewComponent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewComponent.Designer.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewComponent.Designer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewComponent.Designer.cs",
+              "RelativeToolTip": "EslamApp\\AddingNewComponent.Designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswFcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:07:33.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddingNewUnit.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewUnit.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewUnit.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewUnit.cs",
+              "RelativeToolTip": "EslamApp\\AddingNewUnit.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAWwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:55:26.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddingNewUnit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewUnit.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewUnit.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewUnit.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingNewUnit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:55:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddingNewInput.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewInput.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewInput.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewInput.cs",
+              "RelativeToolTip": "EslamApp\\AddingNewInput.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAEwGoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:30:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddingNewInput.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewInput.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewInput.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewInput.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingNewInput.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:30:14.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddingNewItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewItem.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewItem.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewItem.cs [Design]",
+              "RelativeToolTip": "EslamApp\\AddingNewItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:29:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddingNewItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewItem.cs",
+              "RelativeDocumentMoniker": "EslamApp\\AddingNewItem.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\AddingNewItem.cs",
+              "RelativeToolTip": "EslamApp\\AddingNewItem.cs",
+              "ViewState": "AQIAAAMBAADQ//////8nwAYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:58:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Master.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.Designer.cs",
+              "RelativeDocumentMoniker": "EslamApp\\Master.Designer.cs",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.Designer.cs",
+              "RelativeToolTip": "EslamApp\\Master.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBUBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:07:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Master.resx",
+              "DocumentMoniker": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.resx",
+              "RelativeDocumentMoniker": "EslamApp\\Master.resx",
+              "ToolTip": "C:\\Users\\Ketaro\\source\\repos\\EslamApp\\EslamApp\\Master.resx",
+              "RelativeToolTip": "EslamApp\\Master.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-30T00:07:41.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
